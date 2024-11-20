@@ -62,5 +62,10 @@ public class Proyectocoche {
                     '}';
         }
     }
+    public void encender() {
+        System.out.println("El coche está encendido.");
+    }
+
+
 
 }
